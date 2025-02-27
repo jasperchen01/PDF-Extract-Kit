@@ -20,6 +20,8 @@ dependencies = [
     "pymupdf",
     "opencv-python>4.6.0",
     # Add other common dependencies
+    "numpy (>=1.21.2,<1.27)",
+    "opencv-python-headless (==4.9.0.80)"
 ]
 
 [project.optional-dependencies]
