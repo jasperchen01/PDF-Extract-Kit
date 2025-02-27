@@ -10,7 +10,7 @@ authors = [
 ]
 description = "A Comprehensive Toolkit for High-Quality PDF Content Extraction."
 readme = "README.md"
-license = { file="LICENSE" }
+license = { file="LICENSE.md" }
 requires-python = ">=3.10"
 dependencies = [
     "PyPDF2",
